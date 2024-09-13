@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/buildSrc/.gradle/*
+.kotlin/
+
+# Project exclude paths
+/app/
+/gradle/
+/screenshots/
+/spotless/
